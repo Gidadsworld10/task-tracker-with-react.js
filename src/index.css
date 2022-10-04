@@ -145,3 +145,12 @@ font-size: 50px;
   flex: 2;
   height: 20px;
 }
+
+footer{
+  text-align: center;
+  
+}
+
+footer p{
+  margin-bottom: 1px;
+}
