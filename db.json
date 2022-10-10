@@ -10,13 +10,7 @@
       "id": 3,
       "text": "Dad's appointment",
       "day": "October 1st by 6:pm",
-      "reminder": true
-    },
-    {
-      "text": "hifiyueyr",
-      "day": "irt0i90tr",
-      "reminder": true,
-      "id": 4
+      "reminder": false
     }
   ]
 }
